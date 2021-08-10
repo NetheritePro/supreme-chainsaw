@@ -1,0 +1,58 @@
+* {
+background-color: white;}
+
+header {
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin: 100px;
+    padding: 20px;
+    letter-spacing: 1px;
+}
+header h1 {margin-top: 5px;
+margin-bottom: 15px;
+color: lightseagreen;}
+body {
+    text-align: center;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 20px;
+}
+#p1text {background-color: indianred;}
+#p2text {background-color: lightblue;}
+#p3text {background-color: moccasin;}
+img {
+    width: 300px;
+    height: 300px;
+    border-radius:97%;
+    padding: 7px;
+}
+.box {
+    padding: 3%;
+    text-align: left;
+    overflow: hidden;
+}
+.box img {
+    width: 250px;
+    height: 250px;
+    float:left;
+    margin-right: 2%;
+}
+.box p { padding-top: 5%;
+text-align: left;}
+#box1 {background-color: indianred}
+#box2 {background-color: lightblue}
+#box3 {background-color: moccasin}
+
+.fa-twitter-square {
+    padding: 20px;
+    background-color: skyblue;
+    color: white;
+    border-radius: 50%;
+    margin: 15px;
+    border:  3px solid skyblue;
+}
+.fa-twitter-square:hover {
+background-color: white; 
+color: skyblue;
+border: 3px solid lightblue;}
